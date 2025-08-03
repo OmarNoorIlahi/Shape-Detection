@@ -35,7 +35,7 @@ As mentioned earlier, Python is not required as standalone software, but the cod
 
 ## Output
 
-![](shape.jpg)
+![](Shape Detection.png)
 
 <p align="center"><b>Figure 1: Result</b></p>
 
